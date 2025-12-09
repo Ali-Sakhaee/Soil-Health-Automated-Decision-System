@@ -97,6 +97,12 @@ These datasets have been standardized and preprocessed prior to use in the appli
 
 ---
 
+## Disclaimer
+
+This application is not intended to be deployed directly. It is provided as a demonstration and serve as a functional component within the [AI4SoilHealth application](https://github.com/AI4SoilHealth/AI4SoilHealth-App)
+
+---
+
 ## Acknowledgments & Funding
 
 This work is part of the [AI4SoilHealth]( https://ai4soilhealth.eu/) project, funded by the European Union's Horizon Europe Research and Innovation Program under Grant Agreement [No. 101086179]( https://cordis.europa.eu/project/id/101086179).
