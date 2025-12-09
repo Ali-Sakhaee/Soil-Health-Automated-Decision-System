@@ -2,8 +2,7 @@
 
 ## 1. Introduction
 
-The AI4SoilHealth automated decision system is an interactive assessment tool designed to help users explore soil health conditions across Europe and provide automated decision-support.  
-The application allows users to define an Area of Interest (AOI) on an interactive map and receive a summary of key soil health threats based on land-use characteristics for that location, along with practical advice on how to mitigate identified soil health threats.
+The AI4SoilHealth automated decision system is an interactive assessment tool designed to help users explore soil health conditions across Europe and provide automated decision-support. The application allows users to define an Area of Interest (AOI) on an interactive map and receive a summary of key soil health threats based on land-use characteristics for that location, along with practical advice on how to mitigate identified soil health threats.
 
 ---
 
