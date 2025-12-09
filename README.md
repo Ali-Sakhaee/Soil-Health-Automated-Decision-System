@@ -63,6 +63,7 @@ When available, direct links to relevant management guidance are provided based 
 If no curated guidance exists, the decision system automatically generates a search query to help the user to get a first overview on the specific soil threat and region-specific guidance on how to remediate the soil threat.
 ![Recommendations GIF](Soil-Health-Automated-Decision-System-App/R/www/recommendations.gif)
 
+
 ### **3.5 Visual Threat Overview**
 A polar diagram presents the relative magnitude of the five soil threats.  
 This visualization enables quick comparison and supports communication of soil condition patterns.
